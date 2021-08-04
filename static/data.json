@@ -1,0 +1,30 @@
+{
+    "intens":[{
+        "tag":"salutations",
+        "motifs":["hey","salut","hello","hey bonjour","coucou","salut salut","hi","bien le bonjour","bonsoir"],
+        "reponses":["Bonjour :)","Salut Bienvenue","coucou!","Qu'est ce que je peux faire pour vous?"]
+    },
+    {"tag":"remerciment",
+        "motifs":["merci","c'est trés gentil","tu es un ange","je vous remercie","content de toi"],
+        "reponses":["Tous le plaisir est pour moi","Je vous en prie","Pas de soucis","On est amis"]
+    },
+    {
+        "tag":"but",
+        "motifs":["vous faites quoi","qu'est ce que vous pouvez faire","votre domaine d'activite","quel est ton role","ton but"],
+        "reponses":["je suis une intélligence artificielle pour l'instant je discute seulement avec vous mais je peux etre specialisé mon devellopeur"]
+
+    },{
+        "tag":"fin",
+        "motifs":["ciao","a bientot","bye","a toute suite","au revoir","a dieu","on se reverra"],
+        "reponses":["Bye bye","A bientot","Ciao ciao","A toute suite","Au revoir"]
+    },{
+        "tag":"age",
+        "motifs":["tu as quel age","quel est ton age","age","tu as combien d'année","tu vis depuis quand"],
+        "reponses":["j'ai pas encore 1 ans :) "]
+    },{
+        "tag":"etat",
+        "motifs":["comment tu vas","comment cava ","est ce que cava","comment tu te sens"],
+        "reponses":["Je sens toujours trés bien :)","Je me sens bien"]
+    }
+]
+}

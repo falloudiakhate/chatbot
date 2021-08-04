@@ -1,0 +1,60 @@
+{
+    "intens":[{
+        "tag":"salutations",
+        "motifs":["hey","salut","hello","hey bonjour","coucou","salut salut","hi","bien le bonjour","bonsoir"],
+        "reponses":["Bonjour :)","Salut Bienvenue","coucou!","Qu'est ce que je peux faire pour vous?"]
+    },
+    {"tag":"remerciment",
+        "motifs":["merci","c'est trés gentil","tu es un ange","je vous remercie","content de toi"],
+        "reponses":["Tous le plaisir est pour moi","Je vous en prie","Pas de soucis","On est amis"]
+    },
+    {
+        "tag":"but",
+        "motifs":["vous faites quoi","qu'est ce que vous pouvez faire","votre domaine d'activite","quel est ton role","ton but"],
+        "reponses":["je suis une intélligence artificielle pour l'instant je discute seulement avec vous"]
+
+    },{
+        "tag":"fin",
+        "motifs":["ciao","a bientot","bye","a toute suite","au revoir","a dieu","on se reverra"],
+        "reponses":["Bye bye","A bientot","Ciao ciao","A toute suite","Au revoir"]
+    },{
+        "tag":"age",
+        "motifs":["tu as quel age","quel est ton age","age","tu as combien d'année","tu vis depuis quand"],
+        "reponses":["j'ai pas encore 1 ans :)"]
+    },{
+        "tag":"etat",
+        "motifs":["comment tu vas","comment cava ","est ce que cava","comment tu te sens","comment vous allez","comment est ce que vous allez"],
+        "reponses":["Je sens toujours trés bien :)","Je me sens bien"]
+    },{
+        "tag":"familier",
+        "motifs":["cool","je trouve ca cool","super","ok","d'accord","Yup"],
+        "reponses":["Super!","Yup!","Cool!"]
+    },
+    {
+        "tag":"nom",
+        "motifs":["quel est ton nom","comment tu t'appeles","comment on t'appel","votre nom","votre pseudo"],
+        "reponses":["Mon nom est Ouleye","je m'appelle Ouleye"]
+    },
+    {
+        "tag":"film",
+        "motifs":["propose moi un film","propose moi quelque chose a regarder","propose moi un film","un film","je veux regarder quelques choses","un film sur netflix"],
+        "reponses":["Regarde Baby Driver (2017)","The Town (2010)","Regarde Princesse Mononoké (1997)","Regarde The Revenant (2015)","Regarde Happiness Therapy (2012)","Regarde Le fabuleux destin d’Amélie Poulain (2001)","Regarde L’étrange histoire Benjamin Button (2008)","Regarde Pierrot le Fou (1965)"," Regarde Panic Room (2002)","Regarde Mommy (2014)","Regarde Les Évadés (1995)","Regarde Dunkerque (2017)"]
+    },
+    {
+        "tag":"serie",
+        "motifs":["je veux regarder une serie","proposer moi une serie","j'ai envie de regarder une serie","tu peux me proposer une serie netflix"],
+        "reponses":["je te propose de regarder LA CHRONIQUE DES BRIDGERTON ","regarde  MARIANNE","Regarde LUPIN tu vas aimer","je te Propose  DARK","vous devez regarder alors  THE OA","je te Propose THE WITCHER","Si tu aimes les super-heros regarde UMBRELLA ACADEMY","Si tu es un Geek regarde How To Sell Drugs Online","si tu aimes le far west regarde  GODLESS","tu es joueur d'echec? alors regarde LE JEU DE LA DAME","STRANGER THINGS est une dope"," NARCOS retrace la vie de Pablo Escobar"," regarde HOUSE OF CARDS tu vas voir la politique autrement" ]
+    },
+    {
+        "tag":"amis",
+        "motifs":["tu veux etre mon amie","je veux qu'on soit amis","on est amis","est ce que tu veux etre mon ami"],
+        "reponses":["je veux bien etre ton ami","j'aimerais etre ton ami","je suis pret a etre ton amis"]
+    },
+    {
+        "tag":"disccusion",
+        "motifs":["je veux parler avec toi","j'ai envie de parler","je veux discuter","j'ai besoin de parler","je veux qu'on parle"],
+        "reponses":["je suis a ta disposition","je t'ecoute","Oui moi aussi je veux parler","d'accord on parle de quoi??"]
+    }
+ 
+]
+}

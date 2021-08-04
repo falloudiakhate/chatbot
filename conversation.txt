@@ -1,0 +1,81 @@
+user ====> salut
+bot====>  coucou!
+user ====> comment tu vas
+bot====>  Je me sens bienuser ====> il fait combien de degres
+bot====>  Pas de soucis
+user ====> tu sais faire quoi
+bot====>  je suis une intélligence artificielle pour l'instant je discute seulement avec vous mais je peux etre specialisé mon devellopeur
+user ====> combien de langage informatique connais tu
+bot====>  j'ai pas encore 1 ans :)
+user ====> dommage alors
+bot====>  Yup!
+user ====> qui est ton developpeur
+bot====>  je suis une intélligence artificielle pour l'instant je discute seulement avec vous mais je peux etre specialisé mon devellopeur
+user ====> que veut ia
+bot====>  Yup!
+user ====> que dire IA
+bot====>  Yup!
+user ====> Tu veux etre mon ami
+bot====>  je suis pret a etre ton amis
+user ====> es ce que tu veux connaitre mon nom 
+bot====>  Mon nom est Ouleye
+user ====> je m'appelle sidy faye ravis de faire ta connaissance
+bot====>  Je vous en prie
+user ====> es ce que tu peux me rappeller mon nom 
+bot====>  je m'appelle Ouleye
+user ====> bonsoir Ouleye
+bot====>  Qu'est ce que je peux faire pour vous?
+user ====> jaimera discuter avec toi
+bot====>  Je vous en prie
+user ====> comment allez vous
+bot====>  je m'appelle Ouleye
+user ====> et ta famille
+bot====>  Cool!
+user ====> et ton petit ami
+bot====>  je suis une intélligence artificielle pour l'instant je discute seulement avec vous mais je peux etre specialisé mon devellopeur
+user ====>  daccord je comprend
+bot====>  Yup!
+user ====> quelles sont vos capacites
+bot====>  Super!
+user ====> quest ce quune maman
+bot====>  Yup!
+user ====> tu veux etre mon amie
+bot====>  je veux bien etre ton ami
+____________________________________________________________________________________________________________
+
+user ====> je suis ni moi ni toi mais je ne suis que ce je suis pour être ce que je dois être
+bot====>  On est amis
+user ====> sinon
+bot====>  Yup!
+user ====> t'es cool
+bot====>  Super!
+user ====> louy deal bi
+bot====>  Cool!
+user ====> noumouy démè nak
+bot====>  Cool!
+user ====> dfgds
+bot====>  Super!
+user ====> vous êtes où
+bot====>  je suis une intélligence artificielle pour l'instant je discute seulement avec vous mais je peux etre specialisé mon devellopeur
+user ====> comment allez vous
+bot====>  Mon nom est Ouleye
+user ====>  comment tu appelle
+bot====>  Je sens toujours trés bien :)
+user ====> hello
+bot====>  Qu'est ce que je peux faire pour vous?
+user ====> j'ai envie de parler
+bot====>  je suis a ta disposition
+user ====> comment tu vas
+bot====>  Je me sens bien
+user ====> comment tu va
+bot====>  Je me sens bien
+user ====> cool
+bot====>  Yup!
+user ====> quels est ton nm
+bot====>  je suis une intélligence artificielle pour l'instant je discute seulement avec vous
+user ====> quel est ton nom
+bot====>  je m'appelle Ouleye
+user ====> propose moi un filù
+bot====>   Regarde Panic Room (2002)
+user ====> propose moi une serie
+bot====>  si tu aimes le far west regarde  GODLESS

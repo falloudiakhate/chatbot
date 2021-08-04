@@ -1,0 +1,63 @@
+
+{%load static %}
+<html>
+<body>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" >
+<link rel="stylesheet" href="{% static 'val.css' %}">
+<div class="container d-flex justify-content-center" >
+    <div class="card mt-5" >
+    
+        <div class="d-flex flex-row justify-content-between p-3 adiv text-white"> <i class="fas fa-chevron-left"></i> <span class="pb-3">Chatbot</span> <i class="fas fa-times"></i> </div>
+        <div style = "overflow-y: scroll; height:400px;" id='inner'>
+        <div class="d-flex flex-row p-3"> <img src="{% static 'bot.png' %}" width="30" height="30">
+            <div class="chat ml-2 p-3" >Bienvenue je suis Ouleye une intelligence artificielle développée par Process One Tech </div>
+        </div>
+       
+    </div>
+        <div class="form-group px-3"> <textarea class="form-control" rows="5" placeholder="Type your message" name="message" id = "msg"></textarea> </div>
+    </div>
+    
+</div>
+<script src= "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src= "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+function updateScroll(){
+    var element = document.getElementById("inner");
+    element.scrollTop = element.scrollHeight;
+}
+   
+document.querySelector('#msg').addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') { 
+        var message = document.getElementById("msg");
+       var datas = $(message).serialize();
+       document.getElementById('msg').value="";
+       
+       $.ajax({
+            data: datas,
+            url: "{% url 'get_message' %}",
+            success: function (response) {
+                    var rep = response.rep;
+                    var echo = response.echo;
+                    document.getElementById('inner').innerHTML+=echo;
+                    document.getElementById('inner').innerHTML+=rep;
+                    var objDiv = document.getElementById("inner");
+                    objDiv.scrollTop = objDiv.scrollHeight;
+                    },
+            });
+    function updateScroll(){
+    var element = document.getElementById("inner");
+    element.scrollTop = element.scrollHeight;
+}
+            
+    
+   }
+});
+
+</script>
+
+</body>
+</html>
